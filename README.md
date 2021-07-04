@@ -28,16 +28,17 @@ Developed a visualizer using Pygame to demonstrate working of different path-fin
 ## Key Mappings
 
 
-| Button || Action                |
-| :-------- |  :------------------------- |
-| Left Mouse Button(LMB) | Set Start Point |
-| Set Start Point        | Set End Point|
-|Left Mouse Button(LMB) - Subsequent clicks|		Place Obstacle
-|Right Mouse Button(RMB)		|Clear Cell|
-|a		|Start A* Search Algorithm|
-|d		|Start Djikstra's Algorithm|
-|b		|Start Breadth First Search Algorithm|
-|r		|Create Random Maze. Click Multiple times to increase the density of the maze.|
+||   Button	|   	|  Action 	|
+|:-:	|---	|---	|
+|   Left Mouse Button(LMB)	|   	|  Set Start Point 	|
+| Left Mouse Button(LMB) - Second Click  	|   	|  Set End Point	|
+| Left Mouse Button(LMB) - Subsequent clicks 	|   	|  Place Obstacle 	|
+|  Right Mouse Button(RMB) 	|   	|   Clear Cell 	|
+| a  	|   	|  Start A* Search Algorithm 	|
+| d  	|   	|  Start Djikstra's Algorithm 	|
+|  b 	|   	|   Start Breadth First Search Algorithm	|
+|  r 	|   	|   Create Random Maze. Click Multiple times to increase the density of the maze.	|
+
 
 
 ## Screenshots
