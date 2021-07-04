@@ -29,10 +29,9 @@ Developed a visualizer using Pygame to demonstrate working of different path-fin
 
 
 | Button || Action                |
-| :-------- | :------- | :------------------------- |
-| `Left Mouse Button(LMB)` | `Set Start Point` |
-| `Set Start Point`        | `Set End Point`|
-|` `|` `|
+| :-------- |  :------------------------- |
+| Left Mouse Button(LMB) | Set Start Point |
+| Set Start Point        | Set End Point|
 |Left Mouse Button(LMB) - Subsequent clicks|		Place Obstacle
 |Right Mouse Button(RMB)		|Clear Cell|
 |a		|Start A* Search Algorithm|
