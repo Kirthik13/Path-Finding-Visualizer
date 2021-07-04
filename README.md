@@ -26,9 +26,7 @@ Developed a visualizer using Pygame to demonstrate working of different path-fin
 - Press the appropriate button to start the algorithm visualization ( Refer to Key Mappings Section below)
    
 ## Key Mappings
-
-
-||   Button	|   	|  Action 	|
+|   Button	|   	|  Action 	|
 |:-:	|---	|---	|
 |   Left Mouse Button(LMB)	|   	|  Set Start Point 	|
 | Left Mouse Button(LMB) - Second Click  	|   	|  Set End Point	|
